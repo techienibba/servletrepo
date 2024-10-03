@@ -1,0 +1,35 @@
+body{
+	
+	color:white;
+	background:#bbdefb
+	
+	
+	
+}
+
+.container{
+	
+	
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	
+}
+
+.menu-container ul{
+	
+	
+	list-style-type:none;
+	color:white;
+	display:flex;
+	
+	
+}
+
+.menu-container ul a{
+	
+	display:block;
+	margin: 5px 10px;
+	color:white;
+}
